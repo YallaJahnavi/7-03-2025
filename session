@@ -17,6 +17,7 @@ which one is better to use?
 11. learn how to debug the code?
 12. collection technique without repeatedly checking the null poninter exception (it returns an value)?
 13. explore about null checks?
+14. prepare uml diagrams based on the requirements? (because we are not maintaning any data base)
 
 
 
