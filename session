@@ -25,6 +25,8 @@ which one is better to use?
 20. running two dynamic applications,,set cookies for application 1 and read by application 2 (assignment)
 # cookie is a plain String
 21. who have control over the cookie? what happens if there is no control over the cookies in your application?
+22. explore more about cookies, sessions and session tracking mechanisms and how they are connected to each other?
+
 
 
 
