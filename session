@@ -7,10 +7,10 @@
 7. camel case and snake case ?
 8. singleton object?
 9. if(LoggedInUser != Null && ())
-{}
-or
-if(null != LoggedInUser)
-{}
+    {}
+                or
+    if(null != LoggedInUser)
+    {}
 which one is better to use?
 10. learn all the ways to iterate a list? (assignment)
 11. learn how to debug the code?
@@ -22,3 +22,8 @@ which one is better to use?
 17. explore more about comparable, comparator and compare? 
 18. method to sort txn by date and amount (sortTransactions, order(asc,desc), input: txn obj)
 (JAVA) 19. what is the perfect usage of cookies and sessions in java? 
+20. running two dynamic applications,,set cookies for application 1 and read by application 2 (assignment)
+21. who have control over the cookie? what happens if there is no control over the cookies in your application?
+
+
+
