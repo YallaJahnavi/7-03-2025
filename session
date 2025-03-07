@@ -23,6 +23,7 @@ which one is better to use?
 18. method to sort txn by date and amount (sortTransactions, order(asc,desc), input: txn obj)
 (JAVA) 19. what is the perfect usage of cookies and sessions in java? 
 20. running two dynamic applications,,set cookies for application 1 and read by application 2 (assignment)
+# cookie is a plain String
 21. who have control over the cookie? what happens if there is no control over the cookies in your application?
 
 
