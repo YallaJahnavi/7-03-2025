@@ -1,3 +1,10 @@
 1. spread operator?
 2. features of all the java versions?
 3. types of blocks and what gets executed first?
+4. how java knew the main method?
+5. thread main exception
+6. what happened from java 1.8?
+7. camel case and snake case ?
+8. singleton object?
+
+#static block and anonymous blocks are not used mostly
