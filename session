@@ -12,16 +12,13 @@ or
 if(null != LoggedInUser)
 {}
 which one is better to use?
-
 10. learn all the ways to iterate a list? (assignment)
 11. learn how to debug the code?
 12. collection technique without repeatedly checking the null poninter exception (it returns an value)?
 13. explore about null checks?
 14. prepare uml diagrams based on the requirements? (because we are not maintaning any data base)
-
-
-
-
-
-
-#static block and anonymous blocks are not used mostly
+15. about transaction objects, user objects and null objects
+16. method to get all the transactions (name : getTransactions, input: user objects, txn start date, end date,user id, min amt, max amt, credit txn type and debit txn type) [use overloaded methods]
+17. explore more about comparable, comparator and compare? 
+18. method to sort txn by date and amount (sortTransactions, order(asc,desc), input: txn obj)
+(JAVA) 19. what is the perfect usage of cookies and sessions in java? 
