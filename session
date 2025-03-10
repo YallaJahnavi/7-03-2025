@@ -61,3 +61,4 @@ which one is better to use?
 21. pagination example (reference from javatpoint website)
 22. create a table "txn" and add some dummy data up to 100 records using insert statements.. we should be able to view the complete data in the profile page and 5 entries per page(20 pages should be there).. it should contain the numbers at the bottom, and clicking on one particular number the user should render to that particular page
 23. knew how to fix the timer for the filter 
+24. learn how to compare two objects (eg: how to find the difference between two dates)
