@@ -50,5 +50,14 @@ which one is better to use?
 15. learn how to use postman tool(use to send the post requests)
 16. (complete filter theory) knew how to create a filter and the methods used, applications, process, usage, advantages and disadvantages, how to, where to, when to, why to use filter
 17. SOLID principles
-18. 
+18. create a authentication filter, make sure that every request validate the filter without using session object (using cookies and url rewritting but except sessions)---- edhi cheyyalante mundhu login and logout pages cheyyali ra nuvvuu
+19. learn how the servlet is pluggable
+20. step 1: have a n no.of servlets
+    step 2: run the servlet and hit the servlet url
+    step 3: now add the filter configuration
+    step 4: now stop the server and remove the filter configuration and run again (ela endhukante filter pluggable annaru kabatti adhi deni meedha depend avvakoodadhu kabatti)
+    step 5: write a sysout statement
+    step 6: count the no of users using the url to visit the website 
+21. pagination example (reference from javatpoint website)
+22. create a table "txn" and add some dummy data up to 100 records using insert statements.. we should be able to view the complete data in the profile page and 5 entries per page(20 pages should be there).. it should contain the numbers at the bottom, and clicking on one particular number the user should render to that particular page
 
