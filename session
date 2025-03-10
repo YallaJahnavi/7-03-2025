@@ -8,7 +8,7 @@
 5. thread main exception
 6. what happened from java 1.8?
 7. camel case and snake case ?
-8. singleton object?
+8. singleton object? / (also called as singleton design pattern)
 9. if(LoggedInUser != Null && ())
     {}
                 or
@@ -41,4 +41,7 @@ which one is better to use?
 6. explore more about war file (creating, using, destroying etc)
 7. login and logout functionality using cookies and sessions
 8. difference between get and post methods in sessions
+9. in detail about servlet request object and try all the methods
+10. differences between send redirect and request dispatcher
+
 
