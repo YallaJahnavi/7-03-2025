@@ -12,7 +12,6 @@
 9. if(LoggedInUser != Null && ())
     {}
                 or
-
     if(null != LoggedInUser)
     {}
 which one is better to use?
@@ -33,4 +32,13 @@ which one is better to use?
 
 ========================================================================================================================================================================================================================
 10-03-2025 - Monday
+
+1. Manually deploy a server 
+2. how to run tomcat application on server/ put the war file directly into server
+3. run servlets programs manually using (javac commands)
+4. identify the directory structure of the server
+5. learn jar commands
+6. explore more about war file (creating, using, destroying etc)
+7. login and logout functionality using cookies and sessions
+8. difference between get and post methods in sessions
 
