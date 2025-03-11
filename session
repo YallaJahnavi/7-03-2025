@@ -69,6 +69,10 @@ which one is better to use?
 =======================================================================================================================================================================================================================
 11-03-2025 - Tuesday
 
+1. All the transactions that are done has to be downloaded in different formats (pfd, word or any other)
+2. same page has to be displayed (after reloading we have to render to 1st page)
+3. on every page have a check box as "select all" so that i have to select all the transactions from that page
+4. clicking on down arrow
 
 
 
