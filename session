@@ -74,7 +74,9 @@ which one is better to use?
 3. on every page have a check box as "select all" so that i have to select all the transactions from that page
 4. clicking on down arrow
 5. difference between print writer and sysout statement
-
+6. learn the usage of scriptlet tags
+7. learn how to write the jsp files 
+8. learn more about - request, response, config, session (among 9 implicit objects in jsp tutorial from ttechpoint)
 
 
 
