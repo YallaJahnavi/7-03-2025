@@ -73,6 +73,7 @@ which one is better to use?
 2. same page has to be displayed (after reloading we have to render to 1st page)
 3. on every page have a check box as "select all" so that i have to select all the transactions from that page
 4. clicking on down arrow
+5. difference between print writer and sysout statement
 
 
 
