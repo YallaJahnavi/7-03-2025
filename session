@@ -78,6 +78,20 @@ which one is better to use?
 7. learn how to write the jsp files 
 8. learn more about - request, response, config, session (among 9 implicit objects in jsp tutorial from ttechpoint)
 
+===================================================================================================================================================================================
+
+18-03-2025 (Tuesday)
+
+1. tags in jsp
+2. tags in jstl
+3. different content types
+4. character tags(utf-8, utf-16 and etc) and even explore more about their additional features and differences between them
+5. explore about "dependency injection" 
+6. explore more about "maven" - an automation tool
+7. 
+
+
+
 
 
 
